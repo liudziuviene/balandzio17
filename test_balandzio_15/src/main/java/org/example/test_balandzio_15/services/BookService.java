@@ -1,9 +1,9 @@
-package org.example.test_balandzio_15.services;
+package main.java.org.example.test_balandzio_15.services;
 
 
-import org.example.test_balandzio_15.entities.Book;
-import org.example.test_balandzio_15.enums.Command;
-import org.example.test_balandzio_15.repositories.BookRepository;
+import main.java.org.example.test_balandzio_15.entities.Book;
+import main.java.org.example.test_balandzio_15.enums.Command;
+import main.java.org.example.test_balandzio_15.repositories.BookRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package org.example.test_balandzio_15.entities;
+package main.java.org.example.test_balandzio_15.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

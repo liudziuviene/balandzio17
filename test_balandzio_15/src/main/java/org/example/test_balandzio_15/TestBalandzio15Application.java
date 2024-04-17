@@ -1,6 +1,6 @@
-package org.example.test_balandzio_15;
+package main.java.org.example.test_balandzio_15;
 
-import org.example.test_balandzio_15.services.BookService;
+import main.java.org.example.test_balandzio_15.services.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
