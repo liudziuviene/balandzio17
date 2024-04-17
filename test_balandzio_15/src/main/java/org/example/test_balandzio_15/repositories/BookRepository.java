@@ -1,7 +1,7 @@
-package org.example.test_balandzio_15.repositories;
+package main.java.org.example.test_balandzio_15.repositories;
 
 
-import org.example.test_balandzio_15.entities.Book;
+import main.java.org.example.test_balandzio_15.entities.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

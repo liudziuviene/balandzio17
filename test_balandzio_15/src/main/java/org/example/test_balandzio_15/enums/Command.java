@@ -1,4 +1,4 @@
-package org.example.test_balandzio_15.enums;
+package main.java.org.example.test_balandzio_15.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
